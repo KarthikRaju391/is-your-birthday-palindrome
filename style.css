@@ -31,7 +31,7 @@ h3 {
   gap: 1em;
 }
 
-.birth-date-label{
+.birth-date-label {
   font-weight: 600;
   font-size: larger;
 }
@@ -45,7 +45,7 @@ h3 {
   font-size: 17px;
 }
 
-.checkBtn{
+.checkBtn {
   outline: none;
   padding: 1em;
   width: 40%;
