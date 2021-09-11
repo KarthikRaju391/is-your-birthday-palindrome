@@ -143,6 +143,8 @@ function clickHandler() {
       const [count, nextDate] = getNextPalindromeDate(date);
       outputEl.innerText = `You missed it by ${count} days. The next palindrome date is ${nextDate.day}-${nextDate.month}-${nextDate.year}😔`;
     }
+  } else{
+    outputEl.innerText = 'Please enter your birth date!'
   }
 }
 
